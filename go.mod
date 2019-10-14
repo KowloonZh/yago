@@ -31,4 +31,4 @@ require (
 	xorm.io/core v0.7.0
 )
 
-replace github.com/ugorji/go v1.1.4 => github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43
+replace github.com/spf13/cobra => github.com/umarcor/cobra v0.0.6-0.20190917162959-a4bc1a0fefe9
